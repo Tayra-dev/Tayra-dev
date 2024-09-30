@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hi 👋, I'm Hugo</h3> 
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?repeat=false&height=18&vCenter=true&center=true&lines=Student+at+19+school)](https://git.io/typing-svg)\
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?height=18&vCenter=true&center=true&lines=Student+at+19+school)](https://git.io/typing-svg)\
   I am a 21-year-old programming student currently learning about C programming.
 </div>
 <br/>
