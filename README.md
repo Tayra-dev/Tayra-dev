@@ -43,4 +43,4 @@
 </p>
 
 ## 📁Highlight projects
-![Readme Card](https://github.com/antoine-2beco/minishell)
+![Minishell](https://github.com/antoine-2beco/minishell)
