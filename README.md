@@ -43,4 +43,4 @@
 </p>
 
 ## 📁Highlight projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoine-2beco&repo=minishell)](https://github.com/antoine-2beco/minishell)
+![Readme Card](https://github.com/antoine-2beco/minishell)
