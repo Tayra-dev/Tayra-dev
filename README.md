@@ -2,7 +2,7 @@
   <h3>Hi 👋, I'm Hugo</h3> 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?height=18&vCenter=true&center=true&lines=Student+at+19+school)](https://git.io/typing-svg)\
-  I am a 23-year-old software developper currently searching for a job.
+  I am a 23-year-old software developer currently searching for a job.
 </div>
 <br/>
 <!--
